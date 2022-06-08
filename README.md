@@ -14,7 +14,7 @@ Hi! **Edumark** is ready to use website template for building educational websit
 ## Installation / Use
 
 To install or use this template in your project.
-- Download the latest release by [clicking here] (https://github.com/yoursgaurav/edumark/archive/refs/tags/v1.0.0.zip).
+- Download the latest release by [clicking here](https://github.com/yoursgaurav/edumark/archive/refs/tags/v1.0.0.zip).
  > You can download zip file or tar file as per your interest
 - Extract files from downloaded file.
 - Edit index.html as per your requirement.
