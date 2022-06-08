@@ -1,6 +1,6 @@
 # Welcome to Edumark
 
-Hi! **Edumark** is ready to use website template for building educational website. It is written in pure languages without any framework. It is **open source** and free to use in any project.
+Hi! **Edumark** is ready to use website template for building educational website. It is written in pure languages without any framework. It is **open source** and free to use in any project. You can [click here](https://yoursgaurav.github.io/edumark/) to preview this template.
 
 
 ## Tools used
