@@ -33,7 +33,7 @@ Find **:root** variables.
 ### Image
 
 To change hero image just open **img** directory.
-Upload or add new image file and rename it as **hero-image.png**
+Upload or add new png image file and rename it as **hero-image.png**
 > **Note:** Don't forget to **rename** new file as default one and also **delete** default file from directory.
 
 ## License
